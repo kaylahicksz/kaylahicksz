@@ -1,6 +1,6 @@
 ## Hi there 👋
-- I'm a third year student at San Diego State University -
-- I am a Computer Engineering major -
+- I'm a third year student at San Diego State University 
+- I am a Computer Engineering major 
 <!--
 **kaylahicksz/kaylahicksz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
