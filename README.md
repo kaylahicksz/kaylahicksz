@@ -1,9 +1,9 @@
 ## Hi there 👋
 - My name is Kayla Hicks
-- I'm a third year Computer Engineering student at San Diego State University 
+- I'm a junior undergraduate at San Diego State College of Engineering
+- I am pursuing a degree in Computer Engineering and am eager to gain experience in both hardware and software
 - I'm currently learning about FPGA's, VLSI circuits, and web development
-- In my free time I enjoy sleeping or playing games
-<!--
+- <!--
 **kaylahicksz/kaylahicksz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
