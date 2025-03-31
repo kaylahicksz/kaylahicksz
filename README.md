@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 - My name is Kayla Hicks
 - I'm a junior undergraduate at San Diego State College of Engineering
 - I am pursuing a degree in Computer Engineering and am eager to gain experience in both hardware and software
